@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Carregando os dados do arquivo CSV
-df = pd.read_csv(r'https://raw.githubusercontent.com/Raphael-Bezerra/Inventario_W41/master/inventario_W41.csv')
+df = pd.read_csv(r'https://raw.githubusercontent.com/Raphael-Bezerra/Inventario_W41/refs/heads/master/Inventario_W41.csv')
 df.columns = df.columns.str.strip()  # Remove espaços em branco nos nomes das colunas
 
 # Agrupando dados por data para obter o total de pacotes enviados por dia
