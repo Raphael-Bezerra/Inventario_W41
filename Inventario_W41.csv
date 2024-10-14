@@ -1,0 +1,33 @@
+Recebimento,Tipo de Endereço,Status,Qtd
+06/10/24,Business,On Way,36
+06/10/24,Business,Delay de SVC,1
+09/10/24,Residential,Delay de Origem,1
+09/10/24,Residential,Delay de SVC,2
+10/10/24,Business,Delay de SVC,3
+10/10/24,Residential,Delay de SVC,5
+11/10/24,Business,Delay de Origem,11
+11/10/24,Business,Delay de SVC,79
+11/10/24,Business,Early,29
+11/10/24,Business,On Time,17
+11/10/24,Default,Delay de SVC,10
+11/10/24,Default,Early,1
+11/10/24,Default,On Time,1
+11/10/24,Residential,Delay de Origem,3
+11/10/24,Residential,Delay de SVC,24
+11/10/24,Residential,Early,2
+12/10/24,Business,Delay de Origem,202
+12/10/24,Business,Delay de SVC,455
+12/10/24,Business,Early,2957
+12/10/24,Business,On Time,120
+12/10/24,Default,Delay de Origem,12
+12/10/24,Default,Delay de SVC,24
+12/10/24,Default,Early,60
+12/10/24,Default,On Time,16
+12/10/24,Residential,Delay de Origem,18
+12/10/24,Residential,Delay de SVC,599
+12/10/24,Residential,Early,308
+12/10/24,Residential,On Time,152
+13/10/24,Business,Delay de Origem,115
+13/10/24,Business,Early,1567
+13/10/24,Business,On Time,93
+13/10/24,Residential,Delay de Origem,10
