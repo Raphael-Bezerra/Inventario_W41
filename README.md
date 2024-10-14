@@ -3,7 +3,7 @@
 Este é um dashboard interativo para visualizar o inventário W41.
 
 ### Acesse o dashboard aqui:
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://seu-link-no-streamlit](https://inventariow41-hozck78pxrqqhrdq4d7fvg.streamlit.app/))
+[https://inventariow41-hozck78pxrqqhrdq4d7fvg.streamlit.app/]
 
 ### Como rodar localmente
 Clone o repositório e instale as dependências:
